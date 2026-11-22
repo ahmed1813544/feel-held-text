@@ -3,10 +3,10 @@
 import os
 
 TEXT = (
-    "Someone who loves you has left the porch light on. Inside, the kettle "
-    "has just boiled and there are two cups out, though only one will be "
-    "used. Nothing is needed from you tonight. The house is not waiting. "
-    "It is only glad you are in it."
+    "High in the hills, a shepherd's hut keeps one small fire. The sheep "
+    "have settled. The dog sleeps with his chin on the old man's boot. "
+    "Above them, the same stars that watched the first shepherds. Nobody, "
+    "all night, will ask anything of anybody."
 )
 
 
